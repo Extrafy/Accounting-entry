@@ -148,9 +148,9 @@ def main(appid, api_secret, api_key, gpt_url, domain, query):
 
 def get_num(query):
     main(
-        appid="1deed739",
-        api_secret="MGU0MWY2ZTU1M2U0NjZhNjAyNGExYWY2",
-        api_key="658cf576a49146f83fbacafef411e38f",
+        appid="",
+        api_secret="",
+        api_key="",
         #appid、api_secret、api_key三个服务认证信息请前往开放平台控制台查看（https://console.xfyun.cn/services/bm35）
         gpt_url="wss://spark-api.xf-yun.com/v3.5/chat",
         domain="generalv3.5",
